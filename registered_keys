@@ -1,4 +1,6 @@
 [
-	{"key":"V0DPYDBffNgA902maugoVUKuqOkUBfjv","label":"Alphas Development Server","ip":"213.66.47.121"},
+	{"key":"V0DPYDBffNgA902maugoVUKuqOkUBfjv","label":"Alphas Development Server (mum)","ip":"213.66.47.121"},
+	{"key":"l1qdGOQqYJY18DG3Y4buW84AygkA6DIS","label":"Alphas Development Server (dad)","ip":"46.236.111.70"},
+	
 	{"key":"AAXrfcTFqu2xLX2iQkz2uqyazqY3GwNW","label":"Wosa VPS","ip":"185.38.150.185"}
 ]

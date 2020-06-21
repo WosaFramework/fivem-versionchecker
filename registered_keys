@@ -2,6 +2,8 @@
 	{"key":"V0DPYDBffNgA902maugoVUKuqOkUBfjv","label":"Alphas Development Server (mum)","ip":"213.66.47.121"},
 	{"key":"l1qdGOQqYJY18DG3Y4buW84AygkA6DIS","label":"Alphas Development Server (dad)","ip":"46.236.111.70"},
 	
-	
 	{"key":"pXKR9obRvSWpWnALilZkpRExuJzmM3DT","label":"Global Romania","ip":"45.146.252.168"},
+	
+	{"key":"pXKR9obRvSWpWnALilZkpRExuJzmM3DT","label":"Alaska Gaming Network - Dev","ip":"167.114.115.133"},
+	{"key":"DsMFemXFWlWmcANdztwgXFYPgx4pWOPx","label":"Alaska Gaming Network - Main","ip":"192.99.246.125"},
 ]

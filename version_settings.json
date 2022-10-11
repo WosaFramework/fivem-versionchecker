@@ -1,6 +1,7 @@
 {
 	"v1": {
 		"min_version": "1.16",
-		"newest_version": "1.48"
+		"newest_version": "1.48",
+		"recommended_version": "1.48"
 	}
 }
